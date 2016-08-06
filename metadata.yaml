@@ -1,0 +1,27 @@
+_repo: The-Father-of-British-Canada--a-Chronicle-of-Carleton_10044
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, William Charles Henry
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '986'
+    url: http://www.gutenberg.org/2009/agents/986
+description: 'Chronicles of Canada series: Volume 12'
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10044'
+  lccn: '16020576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- 1763-1867'
+- !lcsh 'Canada -- History -- 1775-1783'
+- !lcsh 'Dorchester, Guy Carleton, Baron, 1724-1808'
+- GITenberg
+title: 'The Father of British Canada: a Chronicle of Carleton'
+url: http://www.gutenberg.org/ebooks/10044
