@@ -1,5 +1,8 @@
 _repo: The-Father-of-British-Canada--a-Chronicle-of-Carleton_10044
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wood, William Charles Henry
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '986'
     url: http://www.gutenberg.org/2009/agents/986
 description: 'Chronicles of Canada series: Volume 12'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10044#The-Father-of-British-Canada--a-Chronicle-of-Carleton
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
